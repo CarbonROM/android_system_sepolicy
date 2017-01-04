@@ -971,6 +971,9 @@ get_prop(system_server, time_prop)
 # on low memory kills.
 get_prop(system_server, system_lmk_prop)
 
+# allow system_server to look into theme resources
+allow system_server theme_data_file:dir search;
+
 ###
 ### Neverallow rules
 ###
