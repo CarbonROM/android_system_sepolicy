@@ -461,6 +461,7 @@ compatible_property_only(`
     -test_harness_prop
     -theme_prop
     -time_prop
+    -theme_prop
     -traced_enabled_prop
     -traced_lazy_prop
     -vendor_default_prop
