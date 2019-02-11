@@ -320,6 +320,7 @@ compatible_property_only(`
     -system_writes_vendor_properties_violators
   } {
     property_type
+    -adbtcp_prop
     -audio_prop
     -bluetooth_a2dp_offload_prop
     -bluetooth_prop
