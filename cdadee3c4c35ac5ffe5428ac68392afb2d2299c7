@@ -1,4 +1,5 @@
 {
   "pushCert": "certificate version 0.1\npusher 3B3CE39DC981143E2E29B65A795F73D22FB93FAE 1532339791 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_system_sepolicy\nnonce 1532339792-A49F8D8E694F0B4FC3BEB2F722AC05AC95139E8E\n\n0000000000000000000000000000000000000000 cdadee3c4c35ac5ffe5428ac68392afb2d2299c7 refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEOzzjncmBFD4uKbZaeV9z0i+5P64FAltVpk8ACgkQeV9z0i+5\nP6786gf+LSaCzgvKEr6QRAN1rsmpiOkoPg0SPprinCYBbeDkOn86DbQT0BjMOyw4\nQUNtuQkMCmlWonaMGzBOgS3r4328bCBfUH9va/N4njPxXEIMqE4R53Jzv1iOdHkJ\nBk/6qBxuUJivypZ7OKQI1XtTbC/j5GgrYfLMkk6ziFYsJF54DFdl+Yvhh4TZ70GQ\nCQ1e7N4pxrkjNofHXPELRVc1N3pM7YQTnaEbqlI639PgBHm8/On7QLcB7jtsN6eD\nrNsyEuyWOWTzLoq+jcfdTih8Xwa1SWAvEjZoCzK/9oLxPsXcDfJtO1B7ffxkji6k\n5o17dTvApEngZh3PPVlyFwet69P/ig\u003d\u003d\n\u003dPkMX\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [],
+  "submitRequirementResults": []
 }
